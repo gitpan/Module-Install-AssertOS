@@ -20,10 +20,10 @@ no_index:
     - t
 requires:
   Data::Compare: 1.21
-  Devel::CheckOS: 1.6
+  Devel::CheckOS: 1.61
   Module::Install: 0.85
   perl: 5.6.0
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/bingos/module-install-assertos.git
-version: 0.06
+version: 0.08
